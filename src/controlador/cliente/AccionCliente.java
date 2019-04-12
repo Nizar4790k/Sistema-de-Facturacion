@@ -187,6 +187,8 @@ public class AccionCliente extends WindowAdapter implements ActionListener {
 		
 		form.dispose();  
 		
+		
+		// Evento al cerrar
 		new MenuPrincipal().setVisible(true);;
 		
 		
