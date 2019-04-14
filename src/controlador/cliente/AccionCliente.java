@@ -167,7 +167,7 @@ public class AccionCliente extends WindowAdapter implements ActionListener {
 			
 			
 			
-			// hola como estas ? yeaaaaaaaah
+			// hola como estas ? yeaaaah
 		} else if (form.getRadConsultar().isSelected()) 
 		{
 			form.vaciarTxt();
